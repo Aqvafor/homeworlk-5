@@ -612,13 +612,9 @@ margin-left: 4px;
     display: inline-block;
     height: 50px;
     width: 100%;
-}
-.col_seven__row_1__col_1 {
-    display: inline-block;
-    width: 100%;
     background-color: rgb(40, 107, 110);
-    height: 50px;
 }
+
 
 
 .col_seven__row_2 {
@@ -644,15 +640,11 @@ margin-left: 4px;
 
 .col_seven__row_3 {
     display: inline-block;
-    height: 100px;
-    width: 100%;
-}
-.col_seven__row_3__col_1 {
-    display: inline-block;
-    width: 100% ;
-    background-color: rgb(40, 107, 110);
     height: 104px;
+    width: 100%;
+    background-color: rgb(40, 107, 110);
 }
+
 
 
 .col_seven__row_4 {
@@ -678,13 +670,9 @@ margin-left: 4px;
     display: inline-block;
     height: 50px;
     width: 100%;
-}
-.col_seven__row_5__col_1 {
-    display: inline-block;
-    width: 100% ;
     background-color: rgb(40, 107, 110);
-    height: 50px;
 }
+
 
 
 
